@@ -62,6 +62,7 @@ Mostro is an open protocol: orders, trades, disputes and ratings are Nostr event
 
 ## Node operation
 
+- [Mostromancer](https://github.com/MostroP2P/mostromancer) is a web wizard that configures a Mostro node and generates a Docker installer for it, optionally with LND, Bitcoin Core and Lightning Terminal. It runs entirely in the browser.
 - [mostro-push-server](https://github.com/MostroP2P/mostro-push-server) is the push notification server for the Mostro mobile app.
 - [scripts-mostro](https://github.com/21Mill/scripts-mostro) is a set of management, monitoring and automation scripts for a Mostro node: verified updates and rollbacks, read-only database snapshots, accounting, and Telegram and Nostr bots that publish offers (in Spanish).
 
