@@ -62,6 +62,7 @@ Mostro es un protocolo abierto: las órdenes, los intercambios, las disputas y l
 
 ## Operación de nodos
 
+- [Mostromancer](https://github.com/MostroP2P/mostromancer) es un asistente web que configura un nodo Mostro y genera un instalador con Docker, opcionalmente con LND, Bitcoin Core y Lightning Terminal. Funciona por completo en el navegador.
 - [mostro-push-server](https://github.com/MostroP2P/mostro-push-server) es el servidor de notificaciones push de la app móvil de Mostro.
 - [scripts-mostro](https://github.com/21Mill/scripts-mostro) es un conjunto de scripts de gestión, monitorización y automatización para un nodo Mostro: actualizaciones verificadas y rollbacks, instantáneas de solo lectura de la base de datos, contabilidad y bots de Telegram y Nostr que publican ofertas.
 
